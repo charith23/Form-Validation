@@ -17,5 +17,4 @@ This project demonstrates a basic form validation system using HTML, CSS, and Ja
 - CSS3
 - JavaScript (Vanilla)
 
-## 📁 Project Structure
 
