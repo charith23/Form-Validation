@@ -1,8 +1,21 @@
-# Simple React Signup Form With Validation
+# 📄Form Validation
 
-## Steps for excecution :
+This project demonstrates a basic form validation system using HTML, CSS, and JavaScript. It validates user input in real-time to ensure data correctness and improve user experience.
 
- 1. Clone the repo : git clone https://github.com/abhishek305/simple-react-signup-form-with-validation.git
- 2. Open the cloned repo in a code editor 
- 3. Fire up the terminal in the root directory and provide the command npm install
- 4. Then give the command npm start
+## 🚀 Features
+
+- Real-time form validation
+- Custom error messages
+- Required field checks
+- Email format validation
+- Password strength checking (if applicable)
+- Responsive and user-friendly design
+
+## 🛠️ Technologies Used
+
+- HTML5
+- CSS3
+- JavaScript (Vanilla)
+
+## 📁 Project Structure
+
